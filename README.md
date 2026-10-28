@@ -75,7 +75,7 @@ I'm building this in my free time and want to keep improving it for Windows and 
 - **Star** the repo and share it
 - **Report bugs** and ideas in *Issues*
 - **Send a pull request** (code, translations, docs)
-- **Donate:** [your Ko-fi / Buy Me a Coffee / GitHub Sponsors link]
+- **Donate:** [I'll put up my links here.didn't setup those yet.]
 
 ## Contributing
 Open an issue first for big changes. Files: `renkit.py` (start), `app.py` (main window + engine), `ui.py` (cards and widgets),
