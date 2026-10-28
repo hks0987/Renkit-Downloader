@@ -82,6 +82,7 @@ Open an issue first for big changes. Files: `renkit.py` (start), `app.py` (main 
 `theme.py` (colours/fonts), `common.py` (settings, network), `dialogs.py`, `windows.py`, `server.py`, `extension/`, `assets/`.
 
 ## License
-No licence yet(dont copy).
+Copyright (c) 2026 hks0987
+All rights reserved.
 
 Made by [hks0987].
