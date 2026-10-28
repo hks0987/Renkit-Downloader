@@ -33,7 +33,7 @@ for the same file** and continues where it stopped.
 ### Linux (Debian/Ubuntu)
 ```
 sudo apt install python3 python3-tk git
-git clone https://github.com/[YOUR-USERNAME]/renkit.git
+git clone gh repo clone hks0987/Renkit-Downloader
 cd renkit
 python3 renkit.py
 python3 install_shortcut.py     # optional: adds Renkit to your applications menu and Desktop
