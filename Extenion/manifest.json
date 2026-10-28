@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Renkit Link Interceptor",
+  "version": "2.0",
+  "minimum_chrome_version": "109",
+  "permissions": ["downloads", "contextMenus", "cookies", "offscreen"],
+  "host_permissions": ["http://127.0.0.1:18123/*", "<all_urls>"],
+  "background": { "service_worker": "background.js" },
+  "action": { "default_title": "Resume Fetch" }
+}
